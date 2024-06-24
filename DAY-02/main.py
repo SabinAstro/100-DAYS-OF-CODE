@@ -1,0 +1,8 @@
+Name=input("What's your name?:")
+Favfood=input("What's your favourite food?:")
+Favmusic=input("What's your favourite music?:")
+Hometown=input("Where do you live?:")
+print(f"You are {Name}")
+print(f"You're probably hungry for {Favfood}")
+print(f"and you're definitely getting your groove on to {Favmusic}")
+print(f"living in the amazing {Hometown}")
